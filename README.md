@@ -57,3 +57,13 @@ ps. 有一些注意事项在此补充
 5. 我会偶尔优化一下代码，emm 但现在我自己在做一个完整的平台项目，想让大家更加便捷地上手
 
 但那个平台还没完全做好，我要抑制住我赚钱（不是）的欲望。。
+
+模板：
+距离你的生日还有：{{birthday_left.DATA}}天
+今天天气：{{weather.DATA}}
+最高气温：{{MaxTemp.DATA}}°C
+最低气温：{{MinTemp.DATA}}°C
+未来两天天气：{{Featurewea.DATA}}
+未来两天最高温度：{{Featuretemp.DATA}}
+{{words.DATA}}
+详细LINK：{{links.DATA}}
